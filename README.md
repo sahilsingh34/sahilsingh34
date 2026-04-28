@@ -1,10 +1,10 @@
 <!-- 🔥 DEVOPS ULTRA PROFILE -->
 
 <h1 align="center">🚀 Sahil Singh</h1>
-<h3 align="center">Cloud • DevOps • AI • Future SRE</h3>
+<h3 align="center">Cloud Engineer • DevOps • AI • Future SRE</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Cloud+Projects;Docker+%7C+AWS+%7C+CI%2FCD;Automation+%26+AI+Systems;Future+Site+Reliability+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Cloud+Engineer;Docker+%7C+AWS+%7C+CI%2FCD;Automation+%26+AI+Systems;Future+Site+Reliability+Engineer" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 Sahil Singh
 
 > role
-Aspiring DevOps Engineer
+Cloud Engineer (Aspiring DevOps / SRE)
 
 > location
 Mumbai, India
@@ -38,28 +38,6 @@ Become SRE 🚀
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,jenkins,aws,gcp,python,html,css,js" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 SkillMatch AI
-
-* AI job matching platform
-* Smart candidate filtering
-* Deployed on Vercel
-
-### 🔹 WhatsApp Automation (TIM)
-
-* Meta API integration
-* Real-time CRM system
-* Node.js + MongoDB
-
-### 🔹 AI Voice Agent
-
-* Real-time voice assistant
-* STT + TTS integration
-* Low latency architecture
 
 ---
 
