@@ -1,16 +1,134 @@
-## Hi there 👋
+<!-- 🔥 DEVOPS ULTRA PROFILE -->
 
-<!--
-**sahilsingh34/sahilsingh34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🚀 Sahil Singh</h1>
+<h3 align="center">Cloud • DevOps • AI • Future SRE</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Cloud+Projects;Docker+%7C+AWS+%7C+CI%2FCD;Automation+%26+AI+Systems;Future+Site+Reliability+Engineer" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🖥️ Terminal Intro
+
+```bash
+> whoami
+Sahil Singh
+
+> role
+Aspiring DevOps Engineer
+
+> location
+Mumbai, India
+
+> skills
+Linux • Docker • AWS • CI/CD • Networking • Python
+
+> current_focus
+Mastering Cloud + DevOps + AI
+
+> goal
+Become SRE 🚀
+```
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,jenkins,aws,gcp,python,html,css,js" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 SkillMatch AI
+
+* AI job matching platform
+* Smart candidate filtering
+* Deployed on Vercel
+
+### 🔹 WhatsApp Automation (TIM)
+
+* Meta API integration
+* Real-time CRM system
+* Node.js + MongoDB
+
+### 🔹 AI Voice Agent
+
+* Real-time voice assistant
+* STT + TTS integration
+* Low latency architecture
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧠 DevOps Mindset
+
+```yaml
+discipline: daily_learning
+focus: cloud + automation
+goal: production_ready_engineer
+learning_mode: hands_on_projects
+```
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sahilsingh1111345@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## ⚔️ Quote
+
+> “First learn systems. Then automate them. Then scale them.” 🚀
