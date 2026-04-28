@@ -44,8 +44,8 @@ Become SRE 🚀
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilsingh34&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh34&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ Become SRE 🚀
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sahilsingh34&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -61,7 +61,7 @@ Become SRE 🚀
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilsingh34&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ Become SRE 🚀
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/sahilsingh34/sahilsingh34/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -102,7 +102,7 @@ learning_mode: hands_on_projects
 ## 👀 Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sahilsingh34&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
